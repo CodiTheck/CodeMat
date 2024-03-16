@@ -17,7 +17,8 @@ $a \ne 0$.
 Exemple d'équation du second degré :
 - $3 x^2 - 4 = 0$, 
 - $x^2 + 10 x - 9 = 0$,
-- $6x^2 = 0$ .
+- $6x^2 = 0$,
+- $-x^2 + 2 x = 0$ .
 
 > Par contre $3x - 9 = 0$ ou $3 = 0$ ne sont pas
 des équations du second degré.
