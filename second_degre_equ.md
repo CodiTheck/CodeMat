@@ -1,7 +1,7 @@
 # Equation du 2nd degré
+![](https://img.shields.io/badge/duration-03H-yellow)
 ![](https://img.shields.io/badge/lastest-2024--05--16-success)
 ![](https://img.shields.io/badge/contact-dr.mokira%40gmail.com-blueviolet)
-![](https://img.shields.io/badge/duration-03H-yellow)
 
 Écrire un programme permettant de calculer les solutions d'une **équation
 du second degré**. Je te rappel qu'une équation du second degré est
@@ -22,7 +22,7 @@ Exemple d'équation du second degré :
 > Par contre $3x - 9 = 0$ ou $3 = 0$ ne sont pas
 des équations du second degré.
 
-### Fonctionnement
+## Fonctionnement
 Le programme demande à l'utilisateur de saisir les coéfficients $a$, $b$ et $c$
 ensuite le programme affiche une des trois (03) sorties suivantes :
 
