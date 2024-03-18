@@ -1,6 +1,6 @@
 # Equation du 2nd degré
 ![](https://img.shields.io/badge/duration-03H-yellow)
-![](https://img.shields.io/badge/lastest-2024--05--16-success)
+![](https://img.shields.io/badge/lastest-2024--03--16-success)
 ![](https://img.shields.io/badge/contact-dr.mokira%40gmail.com-blueviolet)
 
 Écrire un programme permettant de calculer les solutions d'une **équation

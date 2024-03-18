@@ -1,6 +1,6 @@
 # Triangle of Integers
 ![](https://img.shields.io/badge/duration-03H-yellow)
-![](https://img.shields.io/badge/lastest-2024--05--17-success)
+![](https://img.shields.io/badge/lastest-2024--03--17-success)
 ![](https://img.shields.io/badge/contact-dr.mokira%40gmail.com-blueviolet)
 
 Écrire un programme qui permet d'afficher un triangle d'entiers,
