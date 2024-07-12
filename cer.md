@@ -63,7 +63,7 @@ $$
 ###### Utilité du CER
 Le taux d'erreur au niveau des caractères (Character Error Rate ou CER)
 est utilisée pour évaluer la qualité des sorties de systèmes de reconnaissance 
-automatique de la parole (RAP) ou de systèmes d'OCR. 
+automatique de la parole (ASR) ou de systèmes d'OCR. 
 
 ### Avantages et Limites
 
