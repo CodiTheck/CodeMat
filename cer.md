@@ -60,7 +60,7 @@ $$
 CER = \frac{1 + 0 + 0}{4} = 0.25
 $$
 
-### Utilité du CER
+###### Utilité du CER
 Le taux d'erreur au niveau des caractères (Character Error Rate ou CER)
 est utilisée pour évaluer la qualité des sorties de systèmes de reconnaissance 
 automatique de la parole (RAP) ou de systèmes d'OCR. 
