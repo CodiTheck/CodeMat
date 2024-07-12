@@ -1,5 +1,5 @@
 # Intégration numérique
-![](https://img.shields.io/badge/duration-04H-yellow)
+![](https://img.shields.io/badge/duration-01J-yellow)
 ![](https://img.shields.io/badge/lastest-2024--07--12-success)
 ![](https://img.shields.io/badge/contact-dr.mokira%40gmail.com-blueviolet)
 
